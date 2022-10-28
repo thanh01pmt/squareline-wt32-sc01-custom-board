@@ -1,0 +1,1 @@
+# squareline-wt32-sc01-custom-board
